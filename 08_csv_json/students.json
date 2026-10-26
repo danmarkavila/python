@@ -1,0 +1,8 @@
+{
+    "students": [
+        {"name": "Alice", "grade": 90, "subjects": ["math", "science"]},
+        {"name": "Bob", "grade": 75, "subjects": ["english", "history"]},
+        {"name": "Charlie", "grade": 85, "subjects": ["math", "english"]},
+        {"name": "Diana", "grade": 60, "subjects": ["science", "art"]}
+    ]
+}

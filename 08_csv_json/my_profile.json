@@ -1,0 +1,14 @@
+{
+    "name": "dan",
+    "age": "24",
+    "hobbies": [
+        "play",
+        "watch",
+        "sleep"
+    ],
+    "favorite_foods": [
+        "burger",
+        "pizza",
+        "fried"
+    ]
+}

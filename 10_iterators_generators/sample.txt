@@ -1,0 +1,4 @@
+Hello world this is a sample file
+Python is a great programming language
+Generators are useful for large data
+This file is used for the word counter exercise
